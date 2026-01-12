@@ -1,0 +1,62 @@
+{
+  "version": "3.97.34031.0",
+  "course_id": "6CapNc1Yjbm",
+  "title": "Activity6",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Activity6"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6Izn2GhO9Eu",
+      "title": "Activity6",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "69UAYybx8tJ",
+      "title": "Untitled Slide",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6f5Jg260rnq",
+      "title": "Untitled Slide",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6E1tBhEKFFc",
+      "title": "Untitled Slide",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5WJxffMW58h",
+      "title": "Untitled Slide",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5wqo1W8VVUC",
+      "title": "Untitled Slide",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6rS7uGCdceF",
+      "title": "Untitled Slide",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "68qzis3wy5g",
+      "title": "Untitled Slide",
+      "scene_index": "1.8"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 560
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}

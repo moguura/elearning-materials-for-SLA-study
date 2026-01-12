@@ -1,0 +1,52 @@
+{
+  "version": "3.97.34031.0",
+  "course_id": "6Qz7L6mo3XU",
+  "title": "Review1",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "66HwEUuXAZa",
+      "title": "listening practice",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5VxcjIgG1hp",
+      "title": "Practice 1.",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "62HAstu3F1v",
+      "title": "Practice 2.",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "63GveoxQxGj",
+      "title": "Practice 3.",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "695mOycYvdX",
+      "title": "Practice 4.",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5ftU3kX4s5v",
+      "title": "Results Slide",
+      "scene_index": "1.6"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 560
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}

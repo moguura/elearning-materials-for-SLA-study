@@ -1,0 +1,97 @@
+{
+  "version": "3.97.34031.0",
+  "course_id": "6NrGmTr2zB7",
+  "title": "Activity1",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5gXBus7nZ3H",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5wWFqo1lvpy",
+      "title": "Untitled Slide",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6A9RvhDQZPp",
+      "title": "Untitled Slide",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5rnwdCL62Ix",
+      "title": "Untitled Slide",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6Z9stBOEV9w",
+      "title": "Pick One",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6KQaYja0WXF",
+      "title": "Pick One",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6ZH8KDKn6vr",
+      "title": "Pick One",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "5mbCUJ23tp9",
+      "title": "Pick One",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "5gTVETBvwUu",
+      "title": "Pick One",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "6Ew3JB0eKVP",
+      "title": "Pick One",
+      "scene_index": "1.10"
+    },
+    {
+      "id": "6CKGWqOBted",
+      "title": "Pick One",
+      "scene_index": "1.11"
+    },
+    {
+      "id": "5xY6WZwnaJt",
+      "title": "Pick One",
+      "scene_index": "1.12"
+    },
+    {
+      "id": "6WXHZsx8Qzk",
+      "title": "Pick One",
+      "scene_index": "1.13"
+    },
+    {
+      "id": "6eT7Ux2G6nW",
+      "title": "Pick One",
+      "scene_index": "1.14"
+    },
+    {
+      "id": "6PLnBdheHvC",
+      "title": "Results Slide",
+      "scene_index": "1.15"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 560
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
